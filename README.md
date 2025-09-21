@@ -1,7 +1,7 @@
 # BRANDON KOCHNARI
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:12c2e9,50:c471ed,100:f64f59&height=160&section=header&text=Computer%20Science%20Specialist%20@%20UofT&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Aspiring%20Software%20Engineer%20%7C%20Problem-Solver%20%7C%20Innovator&descSize=18&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:12c2e9,50:c471ed,100:f64f59&height=160&section=header&text=Computer%20Science%20Specialist%20@%20UofT&fontSize=42&fontColor=ffffff&animation=gradient&desc=Aspiring%20Software%20Engineer%20%7C%20Problem-Solver%20%7C%20Innovator&descSize=18&descAlignY=75"/>
 </div>
 
 <div align="center">
@@ -129,5 +129,5 @@ Feel free to explore my repositories and reach out about collaborations or inter
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:12c2e9,50:c471ed,100:f64f59&height=70&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:12c2e9,50:c471ed,100:f64f59&height=70&section=footer&animation=gradient"/>
 </div>
