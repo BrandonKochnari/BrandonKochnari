@@ -33,24 +33,33 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ### Languages
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cs,cpp,vb&theme=dark&perline=3"/>
+<img src="https://skillicons.dev/icons?i=java,python,cs,html&theme=dark&perline=3"/>
 </div>
 
-- **Java, Python, C#** – OOP, software design, and scalable systems  
-- **C/C++** – algorithms, optimization, and systems programming  
-- **VB / Unity** – interactive applications & games  
+<div align="left">
+
+- **Java** – OOP, software design, scalable systems
+- **Python** – algorithms, optimization, computational problem-solving
+- **C#** – object-oriented development, game and systems programming
+- **HTML** – semantic structure for web development
+- **Visual Basic (VB)** – scripting and Windows Forms  
 
 </td>
 <td align="center" width="33%">
 
 ### Tools & IDEs
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,pycharm,idea,eclipse,vscode&theme=dark&perline=3"/>
+<img src="https://skillicons.dev/icons?i=git,pycharm,idea,eclipse,visualstudio,unity&theme=dark&perline=3"/>
 </div>
 
-- **Git & GitHub** – version control & collaboration  
-- **IntelliJ / PyCharm / Eclipse / VS Code** – productivity and debugging  
-- **Unit Testing & Debugging** – ensuring correctness & stability  
+<div align="left">
+
+- **Git** – version control and collaboration  
+- **PyCharm** – Python development and debugging  
+- **IntelliJ** – Java for large-scale projects  
+- **Eclipse** – Java development and plugin-based workflows  
+- **Visual Studio** – C# development, .NET framework, and Windows applications  
+- **Unity** – game engine for interactive applications and 2D/3D development  
 
 </td>
 <td align="center" width="33%">
@@ -60,10 +69,13 @@ I bring a disciplined and highly organized approach to software development, exc
 <img src="https://skillicons.dev/icons?i=regex,linux&theme=dark&perline=3"/>
 </div>
 
-- Algorithm Design & Complexity  
-- Data Structures (Stacks, Queues, Trees, Graphs)  
-- Proof Techniques & Formal Verification  
-- Recursion & Computational Theory  
+<div align="left">
+
+- **Algorithm Design & Complexity** – runtime analysis, optimization, problem-solving  
+- **Data Structures** – stacks, queues, linked lists, trees, graphs  
+- **Computational Theory** – automata, formal languages, Pumping Lemma  
+- **Recursion & Abstraction** – scalable and elegant solutions  
+- **Software Engineering Principles** – clean code, testing, debugging 
 
 </td>
 </tr>
@@ -104,18 +116,19 @@ I bring a disciplined and highly organized approach to software development, exc
 ---
 
 ## 🏆 Distinctions & Awards
-- **Ted Mossman Scholarship** – University of Toronto (2024):contentReference[oaicite:5]{index=5}  
-- **Ontario Scholar Award** – Alexander Mackenzie HS (2024):contentReference[oaicite:6]{index=6}  
-- **Honours Award (Spirit of Math)** – Top performance in logic-driven math program (2022):contentReference[oaicite:7]{index=7}  
+- **Ted Mossman Scholarship** – University of Toronto (2024)
+- **Ontario Scholar Award** – Alexander Mackenzie HS (2024)
+- **Honours Award (Spirit of Math)** – Top performance in logic-driven math program (2022)
 
 ---
 
 ## 🤝 Professional Collaboration
-I’m open to internships and collaborative opportunities where I can contribute my skills in:
-- Full-stack software development  
-- Algorithm design & computational problem-solving  
-- Educational & interactive applications  
-- Research & prototype development  
+I am open to work in the following roles that would highlight my skills:
+- **Software design & development** – object-oriented programming, scalable systems, and clean code practices
+- **Algorithmic problem-solving** – runtime analysis, proofs, and data structure implementation
+- **Interactive & educational applications** – creating games and learning tools (e.g., Chess+, Math Odyssey)
+- **Data analysis & visualization** – building pipelines and interactive graphs (e.g., Congress Trade Analysis)
+- **Collaborative projects** – leading and contributing to team-based development with Git and modern workflows
 
 ---
 
