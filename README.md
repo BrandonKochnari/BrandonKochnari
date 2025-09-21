@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,10,20&height=300&section=header&text=SOFTWARE%20ENGINEER&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Exploring%20Computation%20Through%20Design%20and%20Logic&descSize=20&descAlignY=65"/>
 </div>
 
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=4AF0FF&background=0D111700&center=true&vCenter=true&width=1000&lines=Computer+Science+Specialist+@+University+of+Toronto;Software+Developer+|+Problem+Solver+|+Team+Leader;Passionate+About+Clean+Design+and+Algorithmic+Thinking" alt="Dynamic Bio"/>
 </div>
@@ -16,7 +15,6 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Open%20to%20Work-00D100?style=for-the-badge&logo=ntfy&logoColor=white&labelColor=00A300"/>
 
 </div>
-
 
 ---
 
@@ -144,4 +142,3 @@ I am open to work in the following roles that would highlight my skills:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,10,20&height=120&section=footer"/>
 
 </div>
-
