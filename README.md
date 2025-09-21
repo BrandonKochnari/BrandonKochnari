@@ -1,6 +1,6 @@
 # BRANDON KOCHNARI
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,10,20&height=300&section=header&text=SOFTWARE%20ENGINEER&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Exploring%20Computation%20Through%20Design%20and%20Logic&descSize=20&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,10,20&height=300&section=header&text=SOFTWARE%20DEVELOPER&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Exploring%20Computation%20Through%20Design%20and%20Logic&descSize=20&descAlignY=65"/>
 </div>
 
 <div align="center">
