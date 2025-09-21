@@ -56,8 +56,8 @@ I bring a disciplined and highly organized approach to software development, exc
 - **Git** – version control and collaboration  
 - **PyCharm** – Python development and debugging  
 - **IntelliJ** – Java for large-scale projects  
-- **Eclipse** – Java development and plugin-based workflows  
-- **Visual Studio** – C# development, .NET framework, and Windows applications  
+- **Eclipse** – Java development and plugin-based workflows for projects
+- **Visual Studio** – arithmetic operations and UI logic
 - **Unity** – game engine for interactive applications and 2D/3D development  
 
 </tr>
