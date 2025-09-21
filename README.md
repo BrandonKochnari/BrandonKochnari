@@ -1,6 +1,6 @@
 # BRANDON KOCHNARI
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20&height=300&section=header&text=SOFTWARE%20ENGINEER&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20Solutions%20for%20Complex%20Problems&descSize=20&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20&height=300&section=header&text=SOFTWARE%20ENGINEER&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Exploring%20Computation%20Through%20Design%20and%20Logic&descSize=20&descAlignY=65"/>
 </div>
 
 
@@ -14,25 +14,6 @@
   <img src="https://custom-icon-badges.demolab.com/badge/University%20of%20Toronto-Computer%20Science%20Specialist-1434A4?style=for-the-badge&logo=wikiversity&logoColor=white&labelColor=00008B"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Toronto-Canada-DC143C?style=for-the-badge&logo=location&logoColor=white&labelColor=8B0000"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Open%20to%20Work-00D100?style=for-the-badge&logo=ntfy&logoColor=white&labelColor=00A300"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <!-- Contact Badges -->
-  <!-- Contact Badges -->
-<a href="https://www.linkedin.com/in/brandon-kochnari-44b05a252/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-</a>
-<a href="mailto:brandon.kochnari@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-C23A2B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C23A2B"/>
-</a>
-<a href="https://github.com/BrandonKochnari?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Repositories-1B1F23?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1F23"/>
-</a>
-
 
 </div>
 
@@ -135,6 +116,21 @@ I’m open to internships and collaborative opportunities where I can contribute
 - Algorithm design & computational problem-solving  
 - Educational & interactive applications  
 - Research & prototype development  
+
+---
+
+## 📞 CONTACT
+
+<div align="center">
+
+  <!-- Contact Badges -->
+  <!-- Contact Badges -->
+<a href="https://www.linkedin.com/in/brandon-kochnari-44b05a252/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+<a href="mailto:brandon.kochnari@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-C23A2B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C23A2B"/>
+<a href="https://github.com/BrandonKochnari?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Repositories-1B1F23?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1F23"/>
 
 ---
 
