@@ -1,6 +1,6 @@
 # BRANDON KOCHNARI
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20&height=300&section=header&text=SOFTWARE%20ENGINEER&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Exploring%20Computation%20Through%20Design%20and%20Logic&descSize=20&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,10,20&height=300&section=header&text=SOFTWARE%20ENGINEER&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Exploring%20Computation%20Through%20Design%20and%20Logic&descSize=20&descAlignY=65"/>
 </div>
 
 
@@ -42,7 +42,8 @@ I bring a disciplined and highly organized approach to software development, exc
 - **Python** – algorithms, optimization, computational problem-solving
 - **C#** – object-oriented development, game and systems programming
 - **HTML** – semantic structure for web development
-- **Visual Basic (VB)** – scripting and Windows Forms  
+- **Markdown** – documentation, technical writing
+- **Visual Basic (VB)** – scripting and Windows Forms
 
 </td>
 <td align="center" width="33%">
@@ -61,23 +62,6 @@ I bring a disciplined and highly organized approach to software development, exc
 - **Visual Studio** – C# development, .NET framework, and Windows applications  
 - **Unity** – game engine for interactive applications and 2D/3D development  
 
-</td>
-<td align="center" width="33%">
-
-### Core Concepts
-<div align="center">
-<img src="https://skillicons.dev/icons?i=regex,linux&theme=dark&perline=3"/>
-</div>
-
-<div align="left">
-
-- **Algorithm Design & Complexity** – runtime analysis, optimization, problem-solving  
-- **Data Structures** – stacks, queues, linked lists, trees, graphs  
-- **Computational Theory** – automata, formal languages, Pumping Lemma  
-- **Recursion & Abstraction** – scalable and elegant solutions  
-- **Software Engineering Principles** – clean code, testing, debugging 
-
-</td>
 </tr>
 </table>
 
@@ -85,40 +69,40 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ## 🌟 Featured Projects
 
-### 🎮 Chess+  
+### 🎮 [Chess+](https://github.com/BrandonKochnari/ChessPlus)    
 **Role:** Co-Founder & Head Developer  
-**Stack:** Python → Unity (C#)  
+**Stack:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) 
+![Unity](https://img.shields.io/badge/Unity-36454F?style=flat&logo=unity&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
 - Innovative chess game with **custom piece abilities** & stat-based gameplay.  
 - Transitioned project to **Unity (C#)** for scalability & performance.  
 - Implemented **trigonometry-based movement algorithms**.  
-- Coordinated team planning, feature implementation & debugging:contentReference[oaicite:2]{index=2}.  
+- Coordinated team planning, **feature implementation** & debugging:contentReference[oaicite:2]{index=2}.  
 
 ---
 
-### 📊 Congress Trade Analysis  
+### 📊 [Congress Trade Analysis](https://github.com/BrandonKochnari/congress-trade-analysis)  
 **Role:** Software Developer  
-**Stack:** Python, CSV Pipelines, NetworkX, Graphviz, Plotly  
+**Stack:**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) 
+![CSV](https://img.shields.io/badge/CSV_Pipelines-2F4F4F?style=flat&logo=files&logoColor=white) 
+![NetworkX](https://img.shields.io/badge/NetworkX-1A1A1A?style=flat&logo=graph&logoColor=white) 
+![Graphviz](https://img.shields.io/badge/Graphviz-800000?style=flat&logo=dot-net&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 - Analyzed **U.S. congressional stock trades** with custom data pipelines.  
 - Built **graph & BST structures** to model relationships between politicians, parties, & sectors.  
 - Automated filtering & win-rate computations to reveal patterns.  
-- Delivered **interactive visualizations & balanced tree diagrams**:contentReference[oaicite:3]{index=3}.  
+- Delivered **interactive visualizations & balanced tree diagrams**.  
 
 ---
 
-### 🧩 Math Odyssey  
+### 🧩 [Math Odyssey](https://github.com/BrandonKochnari/MathOdyssey)  
 **Role:** Independent Developer  
-**Stack:** Java (OOP, Recursion, Data Structures)  
+**Stack:** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
 - Designed a **Java-based educational game** integrating puzzles & algorithms.  
 - Built with **object-oriented design principles** and modular architecture.  
-- Applied recursion & algorithmic logic for dynamic, scalable gameplay.  
-- Focused on testing & debugging for stability:contentReference[oaicite:4]{index=4}.  
-
----
-
-## 🏆 Distinctions & Awards
-- **Ted Mossman Scholarship** – University of Toronto (2024)
-- **Ontario Scholar Award** – Alexander Mackenzie HS (2024)
-- **Honours Award (Spirit of Math)** – Top performance in logic-driven math program (2022)
+- **Applied recursion** & **algorithmic logic** for dynamic, scalable gameplay.  
+- Focused on testing & debugging for stability.  
 
 ---
 
@@ -132,25 +116,32 @@ I am open to work in the following roles that would highlight my skills:
 
 ---
 
-## 📞 CONTACT
-
 <div align="center">
 
-  <!-- Contact Badges -->
-  <!-- Contact Badges -->
-<a href="https://www.linkedin.com/in/brandon-kochnari-44b05a252/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-<a href="mailto:brandon.kochnari@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-C23A2B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C23A2B"/>
-<a href="https://github.com/BrandonKochnari?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Repositories-1B1F23?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1F23"/>
+<h2 style="text-decoration:none; border-bottom:none;" align="left">📞 CONTACT</h2>
 
----
+  <!-- Contact Badges -->
+  <a href="https://www.linkedin.com/in/brandon-kochnari-44b05a252/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  </a>
+  <a href="mailto:brandon.kochnari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-C23A2B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C23A2B"/>
+  </a>
+  <a href="https://github.com/BrandonKochnari?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-1B1F23?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1F23"/>
+  </a>
 
-<div align="center">
+  ---
+
+  ## Thank you for reading over my page
+
+  <br>
+
   <img src="https://komarev.com/ghpvc/?username=BrandonKochnari&color=00D9FF&style=for-the-badge&label=PROFILE+VISITORS"/>
+
+  <br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,10,20&height=120&section=footer"/>
+
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,10,20&height=120&section=footer"/>
-</div>
