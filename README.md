@@ -1,85 +1,145 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=220&section=header&text=Brandon%20Kochnari&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</p>
+# BRANDON KOCHNARI
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3DDC84,100:0077B5&height=150&section=header&text=Computer%20Science%20Student&fontSize=45&fontColor=ffffff&animation=blink&desc=University%20of%20Toronto%20%7C%20Software%20Developer&descSize=18&descAlignY=75"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3DDC84&background=0D111700&center=true&vCenter=true&width=1100&height=90&lines=Software+Developer+%7C+CS+Specialist+%40+UofT;Java+%7C+Python+%7C+C%23;Passionate+about+Algorithms+%26+System+Design;Open+to+Internships+Summer+2026" alt="Dynamic Intro"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Computer%20Science-Specialist-003366?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=003366"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Toronto-Canada-E31837?style=for-the-badge&logo=location&logoColor=white&labelColor=E31837"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Internships-Open-00C851?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=00C851"/>
+</div>
 
 ---
 
-## 👋 About Me  
-I’m **Brandon Kochnari**, a Computer Science Specialist student at the **University of Toronto (St. George)**.  
-I focus on **software engineering, algorithms, and applied mathematics**, and I’m actively seeking **internships in Summer 2026**.
+## 💡 Professional Philosophy
 
-- 🎓 Coursework: CSC110, CSC111, CSC207, CSC236, MAT235, STA237  
-- 💻 Strong foundation in **Java, Python, C#** with projects in **software design, algorithms, and data visualization**  
-- 🧑‍💻 Passionate about building impactful projects that balance **theory and practice**  
-- 🌍 Interests: CS research, full-stack development, and applied data science  
+I believe in writing **clean, maintainable, and scalable code** while focusing on **practical solutions** that solve real problems.  
+My work blends **theoretical knowledge** (algorithms, data structures, computational theory) with **hands-on development** (full-stack apps, automation, and applied AI).  
+
+For me, programming isn’t just building software — it’s creating **tools that matter**.
 
 ---
 
-## 🚀 Featured Projects  
+## 🔧 Technical Skills
 
-### ♟️ Chess+  
-*Co-led a development team to design an advanced chess engine with enhanced gameplay and GUI.*  
-- Implemented **game logic in Java** with OOP design patterns.  
-- Integrated GUI features for interactive play.  
-- Explored **AI heuristics** for move selection.  
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%">
+
+### Programming
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,cpp&theme=dark" />
+</div>
+
+- **Java** – OOP, data structures, GUIs  
+- **Python** – scripting, analytics, ML  
+- **C#** – game & app dev foundations  
+- **C++** – algorithms, optimization  
+
+</td>
+<td align="center" width="33%">
+
+### Development Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark" />
+</div>
+
+- Git & GitHub for collaboration  
+- IntelliJ IDEA & VS Code  
+- Figma for UI/UX  
+- JUnit & PyTest for testing  
+
+</td>
+<td align="center" width="33%">
+
+### Coursework
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,latex&theme=dark" />
+</div>
+
+- **CSC207**: Software Design (Java OOP, testing, teamwork)  
+- **CSC236**: Algorithms & Complexity  
+- **STA237**: Probability & Statistics  
+- **MAT235**: Linear Algebra  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+### ♟ Chess+
+**Java | OOP | GUI | Team Project**  
+A collaborative project where I co-led development of a feature-rich chess platform with multiplayer support, advanced rules, and polished GUI.  
+🔗 [Source Code](https://github.com/BrandonKochnari/ChessPlus)  
 
 ---
 
 ### 📊 Congressional Trade Analysis  
-*Python data pipeline analyzing U.S. congressional stock trades.*  
-- Built custom **BST and graph structures** to model relationships.  
-- Automated filtering and **win-rate computations** across sectors.  
-- Created **interactive visualizations** with NetworkX, Graphviz, and Plotly.  
+**Python | Data Pipelines | Visualization**  
+Analyzed U.S. congressional stock trades with **CSV pipelines**, custom **graph & BST structures**, and **NetworkX visualizations**.  
+- Built interactive dashboards with Plotly  
+- Automated win-rate computations across parties & sectors  
+🔗 [Source Code](https://github.com/BrandonKochnari/congress-trade-analysis)  
 
 ---
 
-### 🎲 Math Odyssey (Coursework)  
-*Python application for probability/statistics exploration.*  
-- Designed simulations of **probability puzzles and combinatorial models**.  
-- Implemented efficient algorithms for **large dataset analysis**.  
-- Visualized results through **graphs and animations**.  
+### 🧮 Math Odyssey  
+**Python | Data Analysis | Visualization**  
+Created a math-focused Python application blending **symbolic computation** with **interactive visuals**, designed to explore advanced problem-solving techniques.  
+🔗 [Source Code](https://github.com/BrandonKochnari/Math-Odyssey)  
 
 ---
 
-## 🛠️ Technical Skills  
-
-**Languages**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-**Tools & Frameworks**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Areas of Expertise**  
-- Algorithm design & analysis  
-- Software engineering practices  
-- Data structures & computational theory  
-- Data visualization and analysis  
+### 🕹 Minesweeper Solver  
+**Python | OpenCV | Algorithms**  
+Automates solving Minesweeper using **computer vision** to detect grids and apply logic algorithms to make optimal moves.  
 
 ---
 
-## 💡 Professional Philosophy  
+## 📈 GitHub Insights
 
-> *“Code should not only solve problems but also **teach and communicate**.”*  
-
-I believe in writing **clean, scalable, and well-documented code** that balances efficiency with readability. Collaboration and **open-source contribution** are central to my growth as a developer.  
-
----
-
-## 📫 Contact  
-
-- 📧 **Email**: brandon.kochnari@mail.utoronto.ca  
-- 💼 **LinkedIn**: [linkedin.com/in/brandonkochnari](https://linkedin.com/in/brandonkochnari)  
-- 🖥️ **GitHub**: [github.com/BrandonKochnari](https://github.com/BrandonKochnari)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrandonKochnari&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=3DDC84&icon_color=3DDC84&text_color=ffffff" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonKochnari&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=3DDC84&text_color=ffffff" width="48%"/>
+</div>
 
 ---
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer"/>
-</p>
+## 🤝 Let’s Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/brandon-kochnari/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:brandon.kochnari@mail.utoronto.ca">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="https://github.com/BrandonKochnari">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+## 🙌 Thanks for Visiting!
+Feel free to explore my repositories and reach out about collaborations or internship opportunities.  
+
+![Profile Views](https://komarev.com/ghpvc/?username=BrandonKochnari&color=3DDC84&style=for-the-badge&label=PROFILE+VISITORS)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3DDC84,100:0077B5&height=60&section=footer&animation=fadeIn"/>
+</div>
