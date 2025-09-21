@@ -75,7 +75,7 @@ I bring a disciplined and highly organized approach to software development, exc
 - Innovative chess game with **custom piece abilities** & stat-based gameplay.  
 - Transitioned project to **Unity (C#)** for scalability & performance.  
 - Implemented **trigonometry-based movement algorithms**.  
-- Coordinated team planning, **feature implementation** & debugging:contentReference[oaicite:2]{index=2}.  
+- Coordinated team planning, **feature implementation** & debugging:contentReference.  
 
 ---
 
