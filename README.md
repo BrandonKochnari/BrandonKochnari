@@ -58,7 +58,7 @@ I bring a disciplined and highly organized approach to software development, exc
 - **IntelliJ** – Java for large-scale projects  
 - **Eclipse** – Java development and plugin-based workflows for projects
 - **Visual Studio** – arithmetic operations and UI logic
-- **Unity** – game engine for interactive applications and 2D/3D development  
+- **Unity** – game engine for interactive applications and 2D development  
 
 </tr>
 </table>
