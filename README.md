@@ -16,7 +16,7 @@
 </div>
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
 ## ❓ WHY ME?
 I bring a disciplined and highly organized approach to software development, excelling at clean design, process optimization, and execution under tight deadlines. Known for my ability to plan strategically and solve complex problems, I consistently deliver scalable, high-quality solutions. I thrive in collaborative environments, but I also take initiative and drive projects forward with leadership, precision, and a results-oriented mindset.
