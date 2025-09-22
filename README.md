@@ -1,14 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2AD6F5,100:8A2BE2&height=180&section=header&text=BRANDON%20KOCHNARI&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=SOFTWARE%20DEVELOPER&descSize=17&descAlignY=70"/>
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=BRANDON%20KOCHNARI&fontSize=60&fontAlignY=35&desc=🚀%20SOFTWARE%20ARCHITECT%20|%20✅%20BUILT%20ON%20QUALITY%20|%20✨%20CLEAN%20AND%20SCALABLE%20&descAlignY=51&descSize=20&animation=fadeIn&fontColor=fff)
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=800&pause=500&color=00FF00&background=00000000&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=💡+INNOVATING+THROUGH+CODE+💡;%E2%80%8B;%F0%9F%92%8E+SOLVING+REAL+PROBLEMS+%F0%9F%92%8E;%E2%80%8B;%F0%9F%9A%80+ONE+ALGORITHM+AT+A+TIME+%F0%9F%9A%80" alt="Typing SVG" />
+
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1200&color=39FF14&background=00000000&center=true&vCenter=true&width=850&lines=COMMITTED+TO+CLEAN+AND+SCALABLE+CODE;BUILT+ON+QUALITY,+POWERED+BY+PRECISION;JAVA,+PYTHON,+AND+COMPUTATIONAL+THEORY" alt="Dynamic Bio"/>
-</div>
-
-<br>
+<br><br>
 
 <div align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Toronto%2C%20Canada-DC143C?style=for-the-badge&logo=location&logoColor=white&labelColor=8B0000"/>
@@ -16,15 +14,16 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Open%20to%20Work-00D100?style=for-the-badge&logo=briefcase-xxl&logoColor=white&labelColor=00A300"/>
 
 </div>
+<br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🚀 WHY ME?
+## ❓ WHY ME?
 I bring a disciplined and highly organized approach to software development, excelling at clean design, process optimization, and execution under tight deadlines. Known for my ability to plan strategically and solve complex problems, I consistently deliver scalable, high-quality solutions. I thrive in collaborative environments, but I also take initiative and drive projects forward with leadership, precision, and a results-oriented mindset.
 
 ---
 
-## 🛠️ Technical Expertise
+## ⚙️ PORTFOLIO BREAKDOWN
 
 <table align="center" width="100%">
 <tr>
@@ -66,11 +65,12 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 FEATURED REPOSITORIES
 
 ### 🎮 [Chess+](https://github.com/BrandonKochnari/ChessPlus)    
 **Role:** Co-Founder & Head Developer  
-**Stack:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) 
+<br>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) 
 ![Unity](https://img.shields.io/badge/Unity-36454F?style=flat&logo=unity&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
 - Innovative chess game with **custom piece abilities** & stat-based gameplay.  
@@ -82,7 +82,7 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ### 📊 [Congress Trade Analysis](https://github.com/BrandonKochnari/congress-trade-analysis)  
 **Role:** Software Developer  
-**Stack:**
+<br>
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) 
 ![CSV](https://img.shields.io/badge/CSV_Pipelines-2F4F4F?style=flat&logo=files&logoColor=white) 
 ![NetworkX](https://img.shields.io/badge/NetworkX-1A1A1A?style=flat&logo=graph&logoColor=white) 
@@ -95,9 +95,10 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ---
 
-### 🧩 [Math Odyssey](https://github.com/BrandonKochnari/MathOdyssey)  
+### 🧮 [Math Odyssey](https://github.com/BrandonKochnari/MathOdyssey)  
 **Role:** Independent Developer  
-**Stack:** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+<br>
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
 - Designed a **Java-based educational game** integrating puzzles & algorithms.  
 - Built with **object-oriented design principles** and modular architecture.  
 - **Applied recursion** & **algorithmic logic** for dynamic, scalable gameplay.  
@@ -138,8 +139,8 @@ I am open to work in the following roles that would highlight my skills:
 
   <img src="https://komarev.com/ghpvc/?username=BrandonKochnari&color=00D9FF&style=for-the-badge&label=YOU+ARE+VISITOR+NUMBER"/>
 
-  <br><br>
+  <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2AD6F5,100:8A2BE2&height=100&section=footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Let%27s%20Build%20Something%20Amazing%20Together!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75)
 
 </div>
