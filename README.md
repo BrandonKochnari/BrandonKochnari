@@ -9,9 +9,9 @@
 <br><br>
 
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Toronto%2C%20Canada-DC143C?style=for-the-badge&logo=location&logoColor=white&labelColor=8B0000"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Location-Toronto%2C%20Canada-DC143C?style=for-the-badge&logo=location&logoColor=white&labelColor=8B0000"/>
   <img src="https://custom-icon-badges.demolab.com/badge/University%20of%20Toronto-Computer%20Science%20Specialist-1434A4?style=for-the-badge&logo=graduation-cap-xxl&logoColor=white&labelColor=00008B"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Open%20to%20Work-00D100?style=for-the-badge&logo=briefcase-xxl&logoColor=white&labelColor=00A300"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Job%20Status-Open%20to%20Work-00D100?style=for-the-badge&logo=briefcase-xxl&logoColor=white&labelColor=00A300"/>
 
 </div>
 <br>
@@ -157,13 +157,22 @@ I am open to work in the following roles that would highlight my skills:
 
   <!-- Contact Badges -->
   <a href="https://www.linkedin.com/in/brandon-kochnari-44b05a252/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+    <img 
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn_Connect-0A66C2?logo=linkedin-white&logoColor=fff" 
+      alt="LinkedIn Contact" 
+      width="200" height="60"/>
   </a>
   <a href="mailto:brandon.kochnari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-C23A2B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C23A2B"/>
+    <img 
+      src="https://img.shields.io/badge/Gmail_Contact-D14836?logo=gmail&logoColor=white" 
+      alt="Email Contact"
+      width="168" height="40"/>
   </a>
   <a href="https://github.com/BrandonKochnari?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-1B1F23?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1F23"/>
+    <img 
+      src="https://img.shields.io/badge/GitHub%20Repositories-121011?logo=github&logoColor=white" 
+      alt="GitHub Repositories"
+      width="215" height="1000"/>
   </a>
 
   ---
