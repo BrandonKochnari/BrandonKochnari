@@ -138,13 +138,13 @@ I am open to work in the following roles that would highlight my skills:
   <a href="https://github.com/BrandonKochnari">
     <img
       src="https://github-readme-stats.vercel.app/api?username=BrandonKochnari&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=00D9FF&icon_color=FF0080&text_color=FFFFFF&custom_title=Activity%20Overview&card_width=0&line_height=34"
-      alt="GitHub Stats" width="400" />
+      alt="GitHub Stats" width="500" />
   </a>
   
   <a href="https://github.com/BrandonKochnari">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonKochnari&layout=donut&theme=radical&bg_color=0D1117&hide_border=true&title_color=00D9FF&text_color=FFFFFF&langs_count=8&custom_title=Language%20Breakdown&card_width=0"
-      alt="Top Languages" width="300" />
+      alt="Top Languages" width="400" />
   </a>
 </p>
 
