@@ -25,42 +25,44 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ## ⚙️ PORTFOLIO BREAKDOWN
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="33%">
+<table>
+  <tr>
+    <td><h3>🖥️ Languages</h3></td>
+    <td width="250px">
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=java,python,cs,html,markdown&theme=dark&perline=3" width="200"/>
+      </div>
+    </td>
+    <td>
+      <ul>
+        <li><b>Java</b> – OOP, software design, scalable systems</li>
+        <li><b>Python</b> – algorithms, optimization, computational problem-solving</li>
+        <li><b>C#</b> – object-oriented development, game and systems programming</li>
+        <li><b>HTML</b> – semantic structure for web development</li>
+        <li><b>Markdown</b> – documentation, technical writing</li>
+        <li><b>Visual Basic (VB)</b> – scripting and Windows Forms</li>
+      </ul>
+    </td>
+  </tr>
 
-### Languages
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cs,html,markdown&theme=dark&perline=3"/>
-</div>
-
-<div align="left">
-
-- **Java** – OOP, software design, scalable systems
-- **Python** – algorithms, optimization, computational problem-solving
-- **C#** – object-oriented development, game and systems programming
-- **HTML** – semantic structure for web development
-- **Markdown** – documentation, technical writing
-- **Visual Basic (VB)** – scripting and Windows Forms
-
-</td>
-<td align="center" width="33%">
-
-### Tools & IDEs
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,pycharm,idea,eclipse,visualstudio,unity&theme=dark&perline=3"/>
-</div>
-
-<div align="left">
-
-- **Git** – version control and collaboration  
-- **PyCharm** – Python development and debugging  
-- **IntelliJ** – Java for large-scale projects  
-- **Eclipse** – Java development and plugin-based workflows for projects
-- **Visual Studio** – arithmetic operations and UI logic
-- **Unity** – game engine for interactive applications and 2D development  
-
-</tr>
+  <tr>
+    <td><h3>🔧 Tools & IDEs</h3></td>
+    <td width="250px">
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,pycharm,idea,eclipse,visualstudio,unity&theme=dark&perline=3" width="200"/>
+      </div>
+    </td>
+    <td>
+      <ul>
+        <li><b>Git</b> – version control and collaboration</li>
+        <li><b>PyCharm</b> – Python development and debugging</li>
+        <li><b>IntelliJ</b> – Java for large-scale projects</li>
+        <li><b>Eclipse</b> – plugin-based workflows for Java projects</li>
+        <li><b>Visual Studio</b> – arithmetic operations and UI logic</li>
+        <li><b>Unity</b> – game engine for interactive apps and 2D dev</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
