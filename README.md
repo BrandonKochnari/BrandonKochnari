@@ -158,21 +158,21 @@ I am open to work in the following roles that would highlight my skills:
   <!-- Contact Badges -->
   <a href="https://www.linkedin.com/in/brandon-kochnari-44b05a252/">
     <img 
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn_Connect-0A66C2?logo=linkedin-white&logoColor=fff" 
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" 
       alt="LinkedIn Contact" 
-      width="200" height="60"/>
+      width="150" height="40"/>
   </a>
   <a href="mailto:brandon.kochnari@gmail.com">
     <img 
-      src="https://img.shields.io/badge/Gmail_Contact-D14836?logo=gmail&logoColor=white" 
+      src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" 
       alt="Email Contact"
-      width="168" height="40"/>
+      width="120" height="39"/>
   </a>
   <a href="https://github.com/BrandonKochnari?tab=repositories">
     <img 
-      src="https://img.shields.io/badge/GitHub%20Repositories-121011?logo=github&logoColor=white" 
+      src="https://img.shields.io/badge/Repositories-121011?logo=github&logoColor=white" 
       alt="GitHub Repositories"
-      width="215" height="1000"/>
+      width="185"/>
   </a>
 
   ---
