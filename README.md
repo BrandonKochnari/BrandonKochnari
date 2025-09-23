@@ -160,19 +160,19 @@ I am open to work in the following roles that would highlight my skills:
     <img 
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" 
       alt="LinkedIn Contact" 
-      width="150" height="40"/>
+      width="111"/>
   </a>
   <a href="mailto:brandon.kochnari@gmail.com">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" 
       alt="Email Contact"
-      width="120" height="39"/>
+      width="87"/>
   </a>
   <a href="https://github.com/BrandonKochnari?tab=repositories">
     <img 
       src="https://img.shields.io/badge/Repositories-121011?logo=github&logoColor=white" 
       alt="GitHub Repositories"
-      width="185"/>
+      width="140"/>
   </a>
 
   ---
