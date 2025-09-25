@@ -69,7 +69,7 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ## 🌟 FEATURED REPOSITORIES
 
-### 🎮 [Chess+](https://github.com/BrandonKochnari/ChessPlus)    
+### 🎮 [<ins>Chess+</ins>](https://github.com/BrandonKochnari/ChessPlus)
 **Role:** Co-Founder & Head Developer  
 - Innovative chess game with **custom piece abilities** & stat-based gameplay.  
 - Transitioned project to **Unity (C#)** for scalability & performance.  
@@ -86,7 +86,7 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ---
 
-### 📊 [Congress Trade Analysis](https://github.com/BrandonKochnari/congress-trade-analysis)  
+### 📊 [<ins>Congress Trade Analysis</ins>](https://github.com/BrandonKochnari/congress-trade-analysis)  
 **Role:** Software Developer  
 - Analyzed **U.S. congressional stock trades** with custom data pipelines.  
 - Built **graph & BST structures** to model relationships between politicians, parties, & sectors.  
@@ -102,7 +102,7 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ---
 
-### 🧮 [Math Odyssey](https://github.com/BrandonKochnari/MathOdyssey)  
+### 🧮 [<ins>Math Odyssey</ins>](https://github.com/BrandonKochnari/MathOdyssey)  
 **Role:** Independent Developer  
 - Designed a **Java-based educational game** integrating puzzles & algorithms.  
 - Built with **object-oriented design principles** and modular architecture.  
