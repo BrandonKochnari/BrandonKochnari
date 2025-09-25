@@ -176,8 +176,6 @@ I am open to work in the following roles that would highlight my skills:
   </a>
 
   ---
-
-  ## Thank you for reading over my page
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrandonKochnari/BrandonKochnari/output/pacman-contribution-graph-dark.svg">
@@ -189,6 +187,6 @@ I am open to work in the following roles that would highlight my skills:
 
   <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Let%27s%20Build%20Something%20Amazing%20Together!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thank%20you%20for%20reading%20over%20my%20page!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75)
 
 </div>
