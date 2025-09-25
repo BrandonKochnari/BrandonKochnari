@@ -16,6 +16,8 @@
 </div>
 <br>
 
+<br>
+
 ---
 
 ## ❓ WHY ME?
@@ -180,7 +182,13 @@ I am open to work in the following roles that would highlight my skills:
   ## Thank you for reading over my page
 
   <br>
-
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrandonKochnari/BrandonKochnari/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[BrandonKochnari/BrandonKochnari/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BrandonKochnari/BrandonKochnari]/output/pacman-contribution-graph.svg">
+  </picture>
+  
   <img src="https://komarev.com/ghpvc/?username=BrandonKochnari&color=00D9FF&style=for-the-badge&label=YOU+ARE+VISITOR+NUMBER"/>
 
   <br>
