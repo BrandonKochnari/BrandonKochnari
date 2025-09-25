@@ -1,8 +1,8 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=BRANDON%20KOCHNARI&fontSize=72&fontAlignY=35&desc=✅%20SOFTWARE%20ARCHITECT%20|%20✅%20BUILT%20ON%20QUALITY%20|%20✅%20CLEAN%20AND%20SCALABLE%20&descAlignY=51&descSize=20&animation=fadeIn&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=BRANDON%20KOCHNARI&fontSize=72&fontAlignY=35&desc=%20SOFTWARE%20ARCHITECT%20|%20%20BUILT%20ON%20QUALITY%20|%20%20CLEAN%20AND%20SCALABLE%20&descAlignY=51&descSize=20&animation=fadeIn&fontColor=fff)
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=800&pause=500&color=00FF00&background=00000000&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=💡+INNOVATING+THROUGH+CODE+💡;%E2%80%8B;%F0%9F%92%8E+SOLVING+REAL+PROBLEMS+%F0%9F%92%8E;%E2%80%8B;%F0%9F%9A%80+ONE+ALGORITHM+AT+A+TIME+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=800&pause=500&color=00FF00&background=00000000&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=INNOVATING+THROUGH+CODE;%E2%80%8B;SOLVING+REAL+PROBLEMS;%E2%80%8B;ONE+ALGORITHM+AT+A+TIME" alt="Typing SVG" />
 
 </div>
 
@@ -18,12 +18,12 @@
 
 ---
 
-## ❓ WHY ME?
+## WHY ME?
 I bring a disciplined and highly organized approach to software development, excelling at clean design, process optimization, and execution under tight deadlines. Known for my ability to plan strategically and solve complex problems, I consistently deliver scalable, high-quality solutions. I thrive in collaborative environments, but I also take initiative and drive projects forward with leadership, precision, and a results-oriented mindset.
 
 ---
 
-## ⚙️ PORTFOLIO BREAKDOWN
+## PORTFOLIO BREAKDOWN
 
 <table>
   <tr>
@@ -67,7 +67,7 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ---
 
-## 🌟 FEATURED REPOSITORIES
+## FEATURED REPOSITORIES
 
 ### 🎮 [<ins>Chess+</ins>](https://github.com/BrandonKochnari/ChessPlus)
 **Role:** Co-Founder & Head Developer  
@@ -117,7 +117,7 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ---
 
-## 🤝 Professional Collaboration
+## Professional Collaboration
 I am open to work in the following roles that would highlight my skills:
 - **Software design & development** – object-oriented programming, scalable systems, and clean code practices
 - **Algorithmic problem-solving** – runtime analysis, proofs, and data structure implementation
@@ -127,7 +127,7 @@ I am open to work in the following roles that would highlight my skills:
 
 ---
 
-## 📊 GITHUB INSIGHTS
+## GITHUB INSIGHTS
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonKochnari&bg_color=0D1117&color=00D9FF&line=FF0080&point=FFFFFF&area=true&hide_border=true&title_color=00D9FF&text_color=FFFFFF"
@@ -153,7 +153,7 @@ I am open to work in the following roles that would highlight my skills:
 
 <div align="center">
 
-<h2 style="text-decoration:none; border-bottom:none;" align="left">📞 CONTACT</h2>
+<h2 style="text-decoration:none; border-bottom:none;" align="left">CONTACT</h2>
 
   <!-- Contact Badges -->
   <a href="https://www.linkedin.com/in/brandon-kochnari/">
