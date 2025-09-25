@@ -180,8 +180,6 @@ I am open to work in the following roles that would highlight my skills:
   ---
 
   ## Thank you for reading over my page
-
-  <br>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrandonKochnari/BrandonKochnari/output/pacman-contribution-graph-dark.svg">
