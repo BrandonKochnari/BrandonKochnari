@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Location-Toronto%2C%20Canada-DC143C?style=for-the-badge&logo=location&logoColor=white&labelColor=8B0000"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/University%20of%20Toronto-Computer%20Science%20Specialist-1434A4?style=for-the-badge&logo=graduation-cap-xxl&logoColor=white&labelColor=00008B"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/University%20of%20Toronto-Computer%20Science%20Specialist-46659A?style=for-the-badge&logo=graduation-cap-xxl&logoColor=white&labelColor=1E3765"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Job%20Status-Open%20to%20Work-00D100?style=for-the-badge&logo=briefcase-xxl&logoColor=white&labelColor=00A300"/>
 
 </div>
