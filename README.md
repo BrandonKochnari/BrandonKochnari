@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Location-Toronto%2C%20Canada-DC143C?style=for-the-badge&logo=location&logoColor=white&labelColor=8B0000"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/University%20of%20Toronto-Computer%20Science%20Specialist-1434A4?style=for-the-badge&logo=graduation-cap-xxl&logoColor=white&labelColor=00008B"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/University%20of%20Toronto-Computer%20Science%20Specialist-1434A4?style=for-the-badge&logo=uoftcustomlogo&logoColor=white&labelColor=00008B"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Job%20Status-Open%20to%20Work-00D100?style=for-the-badge&logo=briefcase-xxl&logoColor=white&labelColor=00A300"/>
 
 </div>
@@ -156,7 +156,7 @@ I am open to work in the following roles that would highlight my skills:
 <h2 style="text-decoration:none; border-bottom:none;" align="left">📞 CONTACT</h2>
 
   <!-- Contact Badges -->
-  <a href="https://www.linkedin.com/in/brandon-kochnari-44b05a252/">
+  <a href="https://www.linkedin.com/in/brandon-kochnari/">
     <img 
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" 
       alt="LinkedIn Contact" 
