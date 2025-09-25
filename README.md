@@ -131,10 +131,10 @@ I am open to work in the following roles that would highlight my skills:
 
 ## 📊 GITHUB INSIGHTS
 
-<p align="center">
-  <a href="https://github.com/BrandonKochnari">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonKochnari&bg_color=0d1117&color=ff6b6b&line=4ecdc4&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonKochnari&bg_color=0D1117&color=00D9FF&line=FF0080&point=FFFFFF&area=true&hide_border=true&title_color=00D9FF&text_color=FFFFFF"
+  alt="Activity Graph"
+  />
 
 <p align="center">
   <a href="https://github.com/BrandonKochnari">
