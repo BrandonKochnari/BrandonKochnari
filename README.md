@@ -25,6 +25,8 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ## PORTFOLIO BREAKDOWN
 
+<div align="center">
+
 <table>
   <tr>
     <td><h3>🖥️ Languages</h3></td>
@@ -64,6 +66,14 @@ I bring a disciplined and highly organized approach to software development, exc
     </td>
   </tr>
 </table>
+
+</div>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrandonKochnari/BrandonKochnari/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[BrandonKochnari/BrandonKochnari/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BrandonKochnari/BrandonKochnari]/output/pacman-contribution-graph.svg">
+  </picture>
 
 ---
 
@@ -176,12 +186,6 @@ I am open to work in the following roles that would highlight my skills:
   </a>
 
   ---
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrandonKochnari/BrandonKochnari/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[BrandonKochnari/BrandonKochnari/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BrandonKochnari/BrandonKochnari]/output/pacman-contribution-graph.svg">
-  </picture>
   
   <img src="https://komarev.com/ghpvc/?username=BrandonKochnari&color=00D9FF&style=for-the-badge&label=YOU+ARE+VISITOR+NUMBER"/>
 
