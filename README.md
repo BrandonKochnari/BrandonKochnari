@@ -187,7 +187,7 @@ I am open to work in the following roles that would highlight my skills:
 
   ---
   
-  <img src="https://komarev.com/ghpvc/?username=BrandonKochnari&color=00D9FF&style=for-the-badge&label=YOU+ARE+VISITOR+NUMBER"/>
+  <img src="https://komarev.com/ghpvc/?username=BrandonKochnari&color=08cf23&style=for-the-badge&label=YOU+ARE+VISITOR+NUMBER"/>
 
   <br>
 
