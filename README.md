@@ -32,7 +32,7 @@ I bring a disciplined and highly organized approach to software development, exc
     <td><h3>🖥️ Languages</h3></td>
     <td width="250px">
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=java,python,cs,html,markdown&theme=dark&perline=3" width="200"/>
+        <img src="https://skillicons.dev/icons?i=java,python,cs,html,css,markdown&theme=dark&perline=3" width="200"/>
       </div>
     </td>
     <td>
@@ -41,6 +41,7 @@ I bring a disciplined and highly organized approach to software development, exc
         <li><b>Python</b> – algorithms, optimization, computational problem-solving</li>
         <li><b>C#</b> – object-oriented development, game and systems programming</li>
         <li><b>HTML</b> – semantic structure for web development</li>
+        <li><b>CSS</b> – styling, layout design, and responsive web development</li>
         <li><b>Markdown</b> – documentation, technical writing</li>
         <li><b>Visual Basic (VB)</b> – scripting and Windows Forms</li>
       </ul>
