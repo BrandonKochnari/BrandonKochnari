@@ -38,8 +38,8 @@ I bring a disciplined and highly organized approach to software development, exc
     <td>
       <ul>
         <li><b>Java</b> – OOP, software design, scalable systems</li>
-        <li><b>Python</b> – algorithms, optimization, computational problem-solving</li>
-        <li><b>C#</b> – object-oriented development, game and systems programming</li>
+        <li><b>Python</b> – algorithms, optimization, comp. problem-solving</li>
+        <li><b>C#</b> – OOP, game and systems programming</li>
         <li><b>HTML</b> – semantic structure for web development</li>
         <li><b>CSS</b> – styling, layout design, and responsive web development</li>
         <li><b>Markdown</b> – documentation, technical writing</li>
