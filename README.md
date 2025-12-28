@@ -149,7 +149,7 @@ I am open to work in the following roles that would highlight my skills:
 <p align="center">
   <a href="https://github.com/BrandonKochnari">
     <img
-      src="https://github-readme-stats2-psi.vercel.app/api?username=BrandonKochnari&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&custom_title=Activity%20Overview"
+      src="https://brandon-github-readme-stats.vercel.app/api?username=BrandonKochnari&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&custom_title=Activity%20Overview"
       alt="GitHub Stats"
       width="420"
     />
@@ -157,7 +157,7 @@ I am open to work in the following roles that would highlight my skills:
 
   <a href="https://github.com/BrandonKochnari">
     <img
-      src="https://github-readme-stats2-psi.vercel.app/api/top-langs/?username=BrandonKochnari&layout=donut&langs_count=8&theme=radical&hide_border=true&custom_title=Language%20Breakdown"
+      src="https://brandon-github-readme-stats.vercel.app/api/top-langs/?username=BrandonKochnari&layout=donut&langs_count=8&theme=radical&hide_border=true&custom_title=Language%20Breakdown"
       alt="Top Languages"
       width="320"
     />
