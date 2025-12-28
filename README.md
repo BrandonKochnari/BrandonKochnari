@@ -113,7 +113,7 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ---
 
-### 💰 [<ins>Finance Tracker</ins>](https://github.com/ORIGINAL_OWNER/finance-tracker)  
+### 💰 [<ins>Finance Tracker</ins>](https://github.com/BrandonKochnari/finance-tracker.git)  
 **Role:** Software Developer Team Member
 - Personal finance tracking system for **budgeting, transactions, and spending analysis**.  
 - Designed and implemented the **budget module using full Clean Architecture** principles.  
