@@ -157,7 +157,7 @@ I am open to work in the following roles that would highlight my skills:
 
   <a href="https://github.com/BrandonKochnari">
     <img
-      src="https://brandon-github-readme-stats.vercel.app/api/top-langs/?username=BrandonKochnari&layout=donut&langs_count=8&theme=radical&hide_border=true&custom_title=Language%20Breakdown"
+      src="https://brandon-github-readme-stats.vercel.app/api/top-langs/?username=BrandonKochnari&layout=donut&langs_count=8&theme=radical&hide_border=true&custom_title=Language%20Breakdown&exclude_repo=github-readme-stats,github-readme-stats2&v=3"
       alt="Top Languages"
       width="320"
     />
