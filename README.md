@@ -113,18 +113,19 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ---
 
-### 🧮 [<ins>Math Odyssey</ins>](https://github.com/BrandonKochnari/MathOdyssey)  
-**Role:** Independent Developer  
-- Designed a **Java-based educational game** integrating puzzles & algorithms.  
-- Built with **object-oriented design principles** and modular architecture.  
-- **Applied recursion** & **algorithmic logic** for dynamic, scalable gameplay.  
-- Focused on testing & debugging for stability.
+### 💰 [<ins>Finance Tracker</ins>](https://github.com/ORIGINAL_OWNER/finance-tracker)  
+**Role:** Software Developer Team Member
+- Personal finance tracking system for **budgeting, transactions, and spending analysis**.  
+- Designed and implemented the **budget module using full Clean Architecture** principles.  
+- Applied **separation of concerns** across entities, use cases, and interface adapters.  
+- Integrated **data visualization** and **AI-assisted spending optimization** features.
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1E3765?style=flat&logo=buffer&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-000?logo=ghost&logoColor=white)
-![Recursion](https://img.shields.io/badge/-Recursion-FF0000?logo=stack-overflow&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-000000?style=flat&logo=codeforces&logoColor=white)
-![Game Dev](https://img.shields.io/badge/Game_Dev-36C?logo=htmx&logoColor=fff)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-4682B4?style=flat&logo=plotly&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Insights-886FBF?logo=googlegemini&logoColor=fff)
+![Finance](https://img.shields.io/badge/Finance-2E8B57?style=flat&logo=cashapp&logoColor=white)
 
 ---
 
@@ -143,22 +144,25 @@ I am open to work in the following roles that would highlight my skills:
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonKochnari&bg_color=0D1117&color=00D9FF&line=FF0080&point=FFFFFF&area=true&hide_border=true&title_color=00D9FF&text_color=FFFFFF"
   alt="Activity Graph"
-  />
+/>
 
 <p align="center">
   <a href="https://github.com/BrandonKochnari">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=BrandonKochnari&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=00D9FF&icon_color=FF0080&text_color=FFFFFF&custom_title=Activity%20Overview&card_width=0&line_height=34"
-      alt="GitHub Stats" width="420" />
+      src="https://github-readme-stats2-psi.vercel.app/api?username=BrandonKochnari&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&custom_title=Activity%20Overview"
+      alt="GitHub Stats"
+      width="420"
+    />
   </a>
-  
+
   <a href="https://github.com/BrandonKochnari">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonKochnari&layout=donut&theme=radical&bg_color=0D1117&hide_border=true&title_color=00D9FF&text_color=FFFFFF&langs_count=8&custom_title=Language%20Breakdown&card_width=0"
-      alt="Top Languages" width="320" />
+      src="https://github-readme-stats2-psi.vercel.app/api/top-langs/?username=BrandonKochnari&layout=donut&langs_count=8&theme=radical&hide_border=true&custom_title=Language%20Breakdown"
+      alt="Top Languages"
+      width="320"
+    />
   </a>
 </p>
-
 
 ---
 
