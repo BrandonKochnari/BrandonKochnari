@@ -83,7 +83,7 @@ I bring a disciplined and highly organized approach to software development, exc
 ### 🎮 [<ins>Chess+</ins>](https://github.com/BrandonKochnari/ChessPlus)
 **Role:** Co-Founder & Head Developer  
 - Innovative chess game with **custom piece abilities** & stat-based gameplay.  
-- Transitioned project to **Unity (C#)** for scalability & performance.  
+- Transitioned project from **PyCharm** to **Unity (C#)** for scalability & performance.  
 - Implemented **trigonometry-based movement algorithms**.  
 - Coordinated team planning, **feature implementation** & debugging:contentReference.
   
