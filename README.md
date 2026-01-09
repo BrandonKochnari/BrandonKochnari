@@ -16,6 +16,12 @@
 </div>
 <br>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrandonKochnari/BrandonKochnari/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[BrandonKochnari/BrandonKochnari/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BrandonKochnari/BrandonKochnari]/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 
 ## WHY ME?
@@ -69,12 +75,6 @@ I bring a disciplined and highly organized approach to software development, exc
 </table>
 
 </div>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrandonKochnari/BrandonKochnari/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[BrandonKochnari/BrandonKochnari/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BrandonKochnari/BrandonKochnari]/output/pacman-contribution-graph.svg">
-  </picture>
 
 ---
 
