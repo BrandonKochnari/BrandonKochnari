@@ -97,13 +97,12 @@ I bring a disciplined and highly organized approach to software development, exc
   <td><h3>🛠️ Developer Tools</h3></td>
   <td width="250px">
     <div align="center">
-      <img src="https://skillicons.dev/icons?i=git,docker,vite,vercel,unity,vscode,pycharm,idea,linux&theme=dark&perline=3" width="200"/>
+      <img src="https://skillicons.dev/icons?i=git,vite,vercel,unity,vscode,pycharm,idea,linux&theme=dark&perline=3" width="200"/>
     </div>
   </td>
   <td>
     <ul>
       <li><b>Git</b> – version control and code history</li>
-      <li><b>Docker</b> – containerized development environments</li>
       <li><b>Vite</b> – frontend build tooling</li>
       <li><b>Vercel</b> – frontend deployment</li>
       <li><b>Render</b> – backend deployment</li>
