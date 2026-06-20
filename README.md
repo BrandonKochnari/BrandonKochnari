@@ -80,51 +80,68 @@ I bring a disciplined and highly organized approach to software development, exc
 
 ## FEATURED REPOSITORIES
 
+### 🔗 [<ins>URL Shortener</ins>](https://github.com/BrandonKochnari/url-shortlink)
+**Role:** Full-Stack Developer  
+- Built a full-stack URL shortening platform with authentication, guest links, and custom short codes.  
+- Developed a **React + TypeScript** frontend with responsive dashboards and protected routes.  
+- Implemented a **FastAPI + PostgreSQL** backend with JWT authentication, rate limiting, and database migrations.  
+- Deployed frontend on **Vercel** and backend on **Render** with production API integration.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+---
+
 ### 🎮 [<ins>Chess+</ins>](https://github.com/BrandonKochnari/ChessPlus)
 **Role:** Co-Founder & Head Developer  
-- Innovative chess game with **custom piece abilities** & stat-based gameplay.  
-- Transitioned project from **PyCharm** to **Unity (C#)** for scalability & performance.  
-- Implemented **trigonometry-based movement algorithms**.  
-- Coordinated team planning, **feature implementation** & debugging:contentReference.
-  
+- Designed an innovative chess game with custom piece abilities and stat-based gameplay.  
+- Transitioned the project from **Python/Pygame** to **Unity C#** for better scalability and performance.  
+- Implemented trigonometry-based movement algorithms for custom piece behavior.  
+- Led team planning, feature implementation, debugging, and project direction.
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) 
 ![Unity](https://img.shields.io/badge/Unity-36454F?style=flat&logo=unity&logoColor=white) 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ![Pygame](https://img.shields.io/badge/Pygame-097969?style=flat&logo=python&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-000000?style=flat&logo=codeforces&logoColor=white)
 ![Game Dev](https://img.shields.io/badge/Game_Dev-36C?logo=htmx&logoColor=fff)
-![Game AI](https://img.shields.io/badge/Game_AI-886FBF?logo=googlegemini&logoColor=fff)
 
 ---
 
 ### 📊 [<ins>Congress Trade Analysis</ins>](https://github.com/BrandonKochnari/congress-trade-analysis)  
 **Role:** Software Developer  
-- Analyzed **U.S. congressional stock trades** with custom data pipelines.  
-- Built **graph & BST structures** to model relationships between politicians, parties, & sectors.  
-- Automated filtering & win-rate computations to reveal patterns.  
-- Delivered **interactive visualizations & balanced tree diagrams**.
+- Analyzed U.S. congressional stock trades using custom data-processing pipelines.  
+- Built graph and BST structures to model relationships between politicians, parties, and sectors.  
+- Automated filtering and win-rate calculations to identify trading patterns.  
+- Delivered interactive visualizations and balanced tree diagrams.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) 
 ![CSV](https://img.shields.io/badge/CSV_Pipelines-2F4F4F?style=flat&logo=files&logoColor=white) 
 ![NetworkX](https://img.shields.io/badge/NetworkX-1A1A1A?style=flat&logo=graph&logoColor=white) 
 ![Graphviz](https://img.shields.io/badge/GraphViz-E10098?logo=graphql&logoColor=fff) 
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Data Processing](https://img.shields.io/badge/Data_Processing-4682B4?style=flat&logo=databricks&logoColor=white)
 
 ---
 
 ### 💰 [<ins>Finance Tracker</ins>](https://github.com/BrandonKochnari/finance-tracker.git)  
-**Role:** Software Developer Team Member
-- Personal finance tracking system for **budgeting, transactions, and spending analysis**.  
-- Designed and implemented the **budget module using full Clean Architecture** principles.  
-- Applied **separation of concerns** across entities, use cases, and interface adapters.  
-- Integrated **data visualization** and **AI-assisted spending optimization** features.
+**Role:** Software Developer Team Member  
+- Built a Java-based personal finance tracker for budgeting, transactions, and spending analysis.  
+- Designed the budget module using **Clean Architecture** and SOLID principles.  
+- Separated entities, use cases, controllers, presenters, and data access layers.  
+- Integrated spending visualizations and **Gemini API** features for AI-assisted financial insights.
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1E3765?style=flat&logo=buffer&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-000?logo=ghost&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4682B4?style=flat&logo=plotly&logoColor=white)
-![AI Integration](https://img.shields.io/badge/Gemini_API-886FBF?logo=googlegemini&logoColor=fff)
+![Gemini API](https://img.shields.io/badge/Gemini_API-886FBF?logo=googlegemini&logoColor=fff)
 ![Finance](https://img.shields.io/badge/Finance-2E8B57?style=flat&logo=cashapp&logoColor=white)
 
 ---
