@@ -38,40 +38,81 @@ I bring a disciplined and highly organized approach to software development, exc
     <td><h3>🖥️ Languages</h3></td>
     <td width="250px">
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=java,python,cs,html,css,markdown&theme=dark&perline=3" width="200"/>
+        <img src="https://skillicons.dev/icons?i=python,java,cs,c,js,ts,html,css,bash&theme=dark&perline=3" width="200"/>
       </div>
     </td>
     <td>
       <ul>
-        <li><b>Java</b> – OOP, software design, scalable systems</li>
-        <li><b>Python</b> – algorithms, optimization, comp. problem-solving</li>
-        <li><b>C#</b> – OOP, game and systems programming</li>
-        <li><b>HTML</b> – semantic structure for web development</li>
-        <li><b>CSS</b> – styling, layout design, and responsive web development</li>
-        <li><b>Markdown</b> – documentation, technical writing</li>
-        <li><b>Visual Basic (VB)</b> – scripting and Windows Forms</li>
+        <li><b>Python</b> – algorithms, data processing, and backend development</li>
+        <li><b>Java</b> – object-oriented programming and software design</li>
+        <li><b>C#</b> – Unity development and game programming</li>
+        <li><b>C</b> – low-level programming fundamentals</li>
+        <li><b>JavaScript</b> – frontend logic and web interactivity</li>
+        <li><b>TypeScript</b> – typed frontend development with React</li>
+        <li><b>HTML/CSS</b> – semantic structure and responsive styling</li>
+        <li><b>Shell</b> – command-line workflows and scripting</li>
       </ul>
     </td>
   </tr>
 
   <tr>
-    <td><h3>🔧 Tools & IDEs</h3></td>
+    <td><h3>⚛️ Frameworks & Libraries</h3></td>
     <td width="250px">
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=git,pycharm,idea,eclipse,visualstudio,unity&theme=dark&perline=3" width="200"/>
+        <img src="https://skillicons.dev/icons?i=react,fastapi,tailwind,py&theme=dark&perline=2" width="160"/>
       </div>
     </td>
     <td>
       <ul>
-        <li><b>Git</b> – version control and collaboration</li>
-        <li><b>PyCharm</b> – Python development and debugging</li>
-        <li><b>IntelliJ</b> – Java for large-scale projects</li>
-        <li><b>Eclipse</b> – plugin-based workflows for Java projects</li>
-        <li><b>Visual Studio</b> – arithmetic operations and UI logic</li>
-        <li><b>Unity</b> – game engine for interactive apps and 2D dev</li>
+        <li><b>React</b> – component-based frontend development</li>
+        <li><b>FastAPI</b> – REST API development and backend services</li>
+        <li><b>Tailwind CSS</b> – responsive UI styling</li>
+        <li><b>SQLAlchemy</b> – ORM-based database models and queries</li>
+        <li><b>Pydantic</b> – typed schemas and request validation</li>
+        <li><b>pytest</b> – backend testing and API test coverage</li>
       </ul>
     </td>
   </tr>
+
+  <tr>
+    <td><h3>🗄️ Databases & Backend</h3></td>
+    <td width="250px">
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark&perline=2" width="150"/>
+      </div>
+    </td>
+    <td>
+      <ul>
+        <li><b>PostgreSQL</b> – relational database design and persistence</li>
+        <li><b>SQL</b> – queries, joins, and relational data handling</li>
+        <li><b>Alembic</b> – database migrations and schema versioning</li>
+        <li><b>REST APIs</b> – structured client-server communication</li>
+        <li><b>JWT Authentication</b> – login, sessions, and protected routes</li>
+        <li><b>Docker</b> – containerized backend and database workflows</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+  <td><h3>🛠️ Developer Tools</h3></td>
+  <td width="250px">
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=git,docker,vite,vercel,unity,vscode,pycharm,idea,linux&theme=dark&perline=3" width="200"/>
+    </div>
+  </td>
+  <td>
+    <ul>
+      <li><b>Git</b> – version control and code history</li>
+      <li><b>Docker</b> – containerized development environments</li>
+      <li><b>Vite</b> – frontend build tooling</li>
+      <li><b>Vercel</b> – frontend deployment</li>
+      <li><b>Render</b> – backend deployment</li>
+      <li><b>Unity</b> – game development and interactive applications</li>
+      <li><b>VS Code / PyCharm / IntelliJ</b> – development and debugging</li>
+      <li><b>Linux</b> – command-line development environment</li>
+    </ul>
+  </td>
+</tr>
 </table>
 
 </div>
