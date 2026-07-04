@@ -75,23 +75,24 @@ I bring a disciplined and highly organized approach to software development, exc
   </tr>
 
   <tr>
-    <td><h3>🗄️ Databases & Backend</h3></td>
-    <td width="250px">
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark&perline=2" width="150"/>
-      </div>
-    </td>
-    <td>
-      <ul>
-        <li><b>PostgreSQL</b> – relational database design and persistence</li>
-        <li><b>SQL</b> – queries, joins, and relational data handling</li>
-        <li><b>Alembic</b> – database migrations and schema versioning</li>
-        <li><b>REST APIs</b> – structured client-server communication</li>
-        <li><b>JWT Authentication</b> – login, sessions, and protected routes</li>
-        <li><b>Docker</b> – containerized backend and database workflows</li>
-      </ul>
-    </td>
-  </tr>
+  <td><h3>🗄️ Databases & Backend</h3></td>
+  <td width="250px">
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,docker,nodejs&theme=dark&perline=3" width="220"/>
+    </div>
+  </td>
+  <td>
+    <ul>
+      <li><b>PostgreSQL</b> – relational database design and persistence</li>
+      <li><b>SQL</b> – queries, joins, and relational data handling</li>
+      <li><b>Node.js</b> – backend runtime for APIs and server-side logic</li>
+      <li><b>Alembic</b> – database migrations and schema versioning</li>
+      <li><b>REST APIs</b> – structured client-server communication</li>
+      <li><b>JWT Authentication</b> – login, sessions, and protected routes</li>
+      <li><b>Docker</b> – containerized backend and database workflows</li>
+    </ul>
+  </td>
+</tr>
 
   <tr>
   <td><h3>🛠️ Developer Tools</h3></td>
