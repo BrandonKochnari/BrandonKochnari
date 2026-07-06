@@ -24,11 +24,6 @@
 
 ---
 
-## WHY ME?
-I bring a disciplined and highly organized approach to software development, excelling at clean design, process optimization, and execution under tight deadlines. Known for my ability to plan strategically and solve complex problems, I consistently deliver scalable, high-quality solutions. I thrive in collaborative environments, but I also take initiative and drive projects forward with leadership, precision, and a results-oriented mindset.
-
----
-
 ## PORTFOLIO BREAKDOWN
 
 <div align="center">
